@@ -1,3 +1,9 @@
+/**
+ * Java Quine
+ * @author Andy
+ *
+ */
+
 public class quine {
     public static void main(String[] args) {
         for (int i = 0; i < src.length-1; i++){
